@@ -9,7 +9,7 @@ name: Madison Brooke
 description: Vegan Photographer Blogger Earing maker Extraordanaire
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "{{site.url}}/images/avatar.jpg"
+avatar: "{{site.baseurl}}/images/avatar.jpg"
   #https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
