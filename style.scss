@@ -93,6 +93,7 @@ hr {
 
 p {
   margin: 15px 0;
+  padding-bottom: 1em;
 }
 
 a {
@@ -298,10 +299,6 @@ nav {
   display: inline-block;
   text-align: left;
   line-height: 2;
-  p {
-    padding-bottom: 1em;
-  }
-
   blockquote {
     font-weight: 700;
   }
