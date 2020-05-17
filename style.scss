@@ -298,9 +298,12 @@ nav {
   display: inline-block;
   text-align: left;
   line-height: 2;
+  p {
+    padding-bottom: 1em;
+  }
+
   blockquote {
     font-weight: 700;
-    line-height: 8;
   }
 
   .comments {
