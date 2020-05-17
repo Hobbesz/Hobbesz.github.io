@@ -17,8 +17,10 @@ layout: default
       <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
       <div class="entry">
-      	{{ post.excerpt | truncate: 156 }}
+      	{{ post.excerpt | truncate: 200 }}
       </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue Reading</a>
     </article>
   {% endfor %}
 </div></body></html>
