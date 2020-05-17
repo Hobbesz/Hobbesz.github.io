@@ -1,0 +1,38 @@
+---
+layout: post
+title: The Pandemic vs. My Eating Disorder
+image: "untitled-6578.jpg"
+categories: [blog, lifestyle]
+tags: [binge eating disorder, coping, coronavirus, eating disorder, mental health, pandemic, panic-buying, quarantine]
+excerpt_separator: <!--more-->
+---
+
+> I didn’t want to stockpile because I’m afraid I would eat it all. – Me (2020).
+
+I swore to myself I wouldn’t talk about having an eating disorder. Especially after I ‘recovered’ (aka – I gained weight so nobody could tell anymore). I tried to shake it off of me as if it was some embarrassing phase where photos were the only evidence that it existed – to get rid of it, like it wasn’t apart of me. But it’s a mental illness – you don’t recover from it, it doesn’t just leave – things just become more muted? Throughout the years I’ve tried to keep it away from lovers and friends but I love to drink and eventually, I tell someone and then the closer I get to them the harder it is to hide it. The bad habits start to emerge, the weird relationship with food, the nasty comments about myself and the endless fucking cycle of dieting. It come
+
+<!--more-->
+
+> But for those who are new here….
+
+At some point in my life, I was diagnosed with anorexia and bulimia – I don’t remember if I was 14 or 16 but I remember scaring the shit out of everyone. Still, people who remember it ask me how it started as if I can pinpoint the exact second I decided I was too fat so I was going to starve myself. I was always fat – or at least I always thought I was fat.
+
+But whatever, this blog isn’t about the history of my eating disorder(s). It’s about dealing with this shit during a pandemic – a pandemic which has been characterized in the modern world as a situation where people buy too much food and complain about their weight gain – and don’t care about the serious issues at hand – I digress.
+
+Super recently, my complicated relationship with food more closely resembled a binge-eating disorder rather than a restrictive one. Apparently (according to countless random people on the internet) the endless cravings eventually give-way to binge-eating – for me it’s a sign of comfort and security – I’m in a good relationship, my body feels like it’s safe. But, this is where my current challenge comes in. You know what. I’m not sure what the point of this write-up is. I’m not going to give you the 10 best tips and tricks to combat binge-eating disorders or tell you how I’m getting through it. I’m just going to tell you how I feel, show you you’re probably not alone and ask most to shut the fu*k up about your weight gain – at least you’re alive.
+
+> The panic from this situation is nearly as contagious as the virus.
+
+Food shopping has always been some sort of positive exercise for me throughout my life. I’ve enjoyed the freedom of shopping for myself, controlling what is in my fridge, what ends up on my plate and what ultimately ends up in my body – this is like a drug for my eating disorder(s). I maintain a higher level of self-control when I am in public and my basket reflects that. But quite quickly, we saw ourselves buying more than we usually would – not stockpiling like assholes – but being social respectful, we didn’t want to be going to the market every single week. But with food in the house and a binge eating disorder in the brain, I have no control. And this isn’t a situation of a glass of wine beckoning you after a long day – its a situation of using food as a comfort mechanism, as an activity, as an escape – and no I can’t just change that. Yet, the media has the audacity to encourage those suffering from binge eating disorders to adopt healthy relationships with food as if that wasn’t the cause of our issues in the first place (again, I digress).
+
+Anyways, we priotized buying certain foods over others during the initial panic and this didn’t include any of my safe foods. I can only speak for myself in situations like this, but I use safe food to refer to any foods I can eat quite endlessly with minimal guilt aftwards. It’s all about eliminating the shitty feeling that comes after eating. About attempting to love my body after eating (so fucking hard). Unfortunatly, my ‘safe-foods’ are probably your non-essentials – things like kale, tomatos, low-cal noodles, fat-free dressings, popcorn, etc. It also includes a ton of vegtables and fruits that don’t carry a long self life – my safe foods are definetly not pandemic friendly and that made it hard to cope. That made my kitchen a danger zone – if I go in – I will be at battle with my mind for hours after, days after. I’m still kicking myself for eating a pizza 3 weeks ago. What the fuck.
+
+But I think what really fucking sucks is the obvious fatphobia that has been ignited and given a platform during Quarantine. Have you seen this shit? I recently watched a Nationwide advert and the first thing they talked about was putting on weight during quanantine. Really?
+
+I try not to listen to this shit. I try to keep my mouth shut when people express their fear of gaining weight during this time. I try not to scream when ‘friends’ things that gaining weight is literally the worst thing that is going to happen – or really that its something worth having a converssatsion about. But you know what I get it. I’ve been scared of gaining weight for 10 years. 10 fucking years of dieting and restricting and counting and crying over my body image. 10 years wasted. But no shit – Our fatphobic society tells us gaining weight makes us less worthy. So can I blame those around me from engaging in this discourse? I was once one of them – I’m still one of them?
+
+So if you’re like me, and struggle when adverts talk about ‘Quarantine 15,’ or you’re struggling with access to you ‘safe food’ or just tired of friends indirectly saying they are afraid to look like you… it’s OK. It will be over eventually?
+
+> Our weight doesn’t define us (I feel like I’m lying to myself). But it doesn’t. Really.
+
+*and as I am typing this Adele’s photo hit’s and nearly breaks the internet – because now she is thin – thus, what she has to say is better.
