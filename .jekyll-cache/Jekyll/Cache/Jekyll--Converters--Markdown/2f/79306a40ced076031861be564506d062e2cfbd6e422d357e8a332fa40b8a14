@@ -1,4 +1,4 @@
-I"T<h2>Recent Posts</h2>
+I"¢<h2>Recent Posts</h2>
 
 <div class="posts">
   
@@ -8,7 +8,7 @@
     		July 27, 2020
   		</div>
 
-      <h3><a href="/welcome-to-jekyll/">Welcome to Jekyll!</a></h3>
+      <h3><a href="/First-Gallery/">First Gallery</a></h3>
     </article>
   
     <article class="post">
@@ -18,15 +18,6 @@
   		</div>
 
       <h3><a href="/The-Pandemic-vs.-My-Eating-Disorder/">The Pandemic vs. My Eating Disorder</a></h3>
-    </article>
-  
-    <article class="post">
-
-    	<div class="date">
-    		March  3, 2014
-  		</div>
-
-      <h3><a href="/Hello-World/">You're up and running!</a></h3>
     </article>
   
 </div>

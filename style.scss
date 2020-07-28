@@ -326,6 +326,15 @@ nav {
   }
 }
 
+.gallery-images {
+  column-count: 3;
+
+  img {
+    width: 100%;  
+    padding-bottom: 20px;
+  }
+}
+
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
